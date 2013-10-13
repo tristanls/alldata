@@ -1,0 +1,18 @@
+{
+  "name": "alldata",
+  "version": "0.0.0",
+  "description": "Distributed master-less write-once immutable event store database implementing \"All Data\" part of Lambda Architecture",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alldata/alldata.git"
+  },
+  "keywords": [
+    "alldata",
+    "write-once",
+    "immutable",
+    "lambda architecture"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
