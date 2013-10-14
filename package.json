@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:alldata/alldata.git"
+    "url": "git@github.com:tristanls/alldata.git"
   },
   "keywords": [
     "alldata",

@@ -12,12 +12,12 @@ AllData is a distributed master-less write-once immutable event store database i
 
 ### Clients
 
-  * [alldata-client-http](https://github.com/alldata/alldata-client-http): AllData HTTP client module
+  * [alldata-client-http](https://github.com/tristanls/alldata-client-http): AllData HTTP client module
 
 ### Servers (for Clients)
 
-  * [alldata-server-http](https://github.com/alldata/alldata-server-http): AllData HTTP server module
+  * [alldata-server-http](https://github.com/tristanls/alldata-server-http): AllData HTTP server module
 
 ### Internal
 
-  * [alldata-keygen](https://github.com/alldata/alldata-keygen): AllData key generation module
+  * [alldata-keygen](https://github.com/tristanls/alldata-keygen): AllData key generation module
