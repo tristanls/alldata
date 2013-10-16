@@ -32,4 +32,5 @@ AllData is a distributed master-less write-once immutable event store database i
 
 ### Internal
 
+  * [alldata-coordinator](https://github.com/tristanls/alldata-coordinator): AllData request coordinator module
   * [alldata-keygen](https://github.com/tristanls/alldata-keygen): AllData key generation module
