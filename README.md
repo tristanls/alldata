@@ -20,7 +20,11 @@ AllData is a distributed master-less write-once immutable event store database i
 
 ### Peer Clients
 
-  * [alldata-peer-client-http](https://github.com/tristanls/alldata-peer-client-http): AllData Peer HTTP client module.
+  * [alldata-peer-client-http](https://github.com/tristanls/alldata-peer-client-http): AllData Peer HTTP client module
+
+### Peer Servers (for Peer Clients)
+
+  * [alldata-peer-server-http](https://github.com/tristanls/alldata-peer-server-http): AllData Peer HTTP server module
 
 ### Storage
 
