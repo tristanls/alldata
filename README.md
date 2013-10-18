@@ -4,7 +4,7 @@ _Stability: 1 - [Experimental](https://github.com/tristanls/stability-index#stab
 
 [![NPM version](https://badge.fury.io/js/alldata.png)](http://npmjs.org/package/alldata)
 
-AllData is a distributed master-less write-once immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it).
+AllData is a distributed master-less append-only immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it).
 
 ![All Data in Lambda Architecture](images/alldata.png)
 
@@ -14,7 +14,7 @@ AllData is a distributed master-less write-once immutable event store database i
 
 -- _Albert Einstein, "On the Method of Theoretical Physics" The Herbert Spencer Lecture, delivered at Oxford (10 June 1933)_
 
-AllData is a distributed master-less write-once immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it). It attempts to do nothing more than fulfill the "All Data" design considerations that are as follows:
+AllData is a distributed master-less append-only immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it). It attempts to do nothing more than fulfill the "All Data" design considerations that are as follows:
 
   * **Lambda Architecture.** AllData is meant to be part of a system designed according to Lambda Architecture.
   * **Event storage.** AllData is an event store. It stores events and is an "append-only" store.
