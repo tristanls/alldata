@@ -34,3 +34,4 @@ AllData is a distributed master-less write-once immutable event store database i
 
   * [alldata-coordinator](https://github.com/tristanls/alldata-coordinator): AllData request coordinator module
   * [alldata-keygen](https://github.com/tristanls/alldata-keygen): AllData key generation module
+  * [gossipmonger](https://github.com/tristanls/gossipmonger): Scuttlebutt gossip protocol implementation for real-time peer-to-peer state distribution
